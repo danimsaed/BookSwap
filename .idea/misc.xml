@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/BookExchange/app/src/main/res/layout/fragment_chats.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/BookExchange/app/src/main/res/layout/fragment_home.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/BookExchange/app/src/main/res/layout/fragment_profile.xml" value="0.13722826086956522" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/BookExchange/app/src/main/res/layout/fragment_user_posts.xml" value="0.1421875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/BookExchange/app/src/main/res/layout/fragment_users.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/New folder/app/src/main/res/layout/activity_message.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/New folder/app/src/main/res/layout/fragment_chats.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

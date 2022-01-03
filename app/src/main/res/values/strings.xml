@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookSwap</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="bookswap">BookSwap</string>
+    <string name="no_books">No Books</string>
+    <string name="no_chats_found">No Chats Found</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701442247410",
+    "firebase_url": "https://bookexchange-d2b60-default-rtdb.firebaseio.com",
+    "project_id": "bookexchange-d2b60",
+    "storage_bucket": "bookexchange-d2b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701442247410:android:936425363dd31e8e541e6b",
+        "android_client_info": {
+          "package_name": "com.bookswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701442247410-6a2rcrq0lmuu43olfgkmn5p8mva1hnoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuqpdA6K4HZQSYVy5Q8rgL2z_SsQ027I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701442247410-6a2rcrq0lmuu43olfgkmn5p8mva1hnoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
