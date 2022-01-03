@@ -1,0 +1,1 @@
+“Book Swap” is an application where a user can buy or sell books, and can chat with other users for more details on their posted books based on their location as this software show books in nearby locations.
